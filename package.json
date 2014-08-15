@@ -1,0 +1,19 @@
+{
+  "name": "MEAN",
+  "version": "0.0.1",
+  "description": "MEAN",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cjazinski/MEAN.git"
+  },
+  "author": "Christopher Jazinski <chris@jazinski.com> (http://www.jazinski.com/)",
+  "homepage": "https://github.com/cjazinski/MEAN",
+  "dependencies": {
+    "mongoose": "^3.8.14",
+    "express": "^4.8.3",
+    "morgan": "^1.2.2",
+    "body-parser": "^1.6.3",
+    "method-override": "^2.1.3"
+  }
+}
